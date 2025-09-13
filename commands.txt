@@ -1,0 +1,5 @@
+git config: sets up your username and email in git.
+git init: creates a new folder.
+git log: checks your commit history.
+git status: shows current state of the repository.
+git commit -m "message" saves changes.
